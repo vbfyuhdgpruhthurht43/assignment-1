@@ -193,3 +193,77 @@ nav li {
 }
 
 /* akene takay productive user section  style shesh*/
+
+
+
+
+/* akene takay user review section style soro */
+.users-say {
+    max-width: 1140px;
+    margin: 137px auto;
+    margin-bottom: 97px;
+
+}
+
+.users-say-title {
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+    margin-bottom: 50px;
+}
+
+.user-reviews {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+
+.user-review {
+    max-width: 366px;
+    border-radius: 14px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid #F2EDED;
+    padding-bottom: 24px;
+}
+
+.img-div {
+    padding: 24px 0px 10px 24px;
+}
+
+.user-review img {
+    padding-right: 4px;
+}
+
+.review-title {
+    font-size: 20px;
+    padding-left: 24px;
+}
+
+.reveiw-description {
+    padding-left: 24px;
+}
+
+.reviewer-info {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding-left: 24px;
+}
+
+.reviewer-info img {
+    border-radius: 50%;
+}
+
+.reviewer-name {
+    margin-bottom: 0px;
+    color: #757575;
+}
+
+.reviewer-date {
+    margin-top: 0px;
+    color: #B3B3B3;
+}
+
+
+/* akene takay user review section style shesh */
