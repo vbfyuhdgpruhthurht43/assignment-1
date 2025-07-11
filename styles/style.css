@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* ar moddhe googl font babohar kora hoiche  */
+/* inter font */
+.inter-font1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* Raleway font */
+
+.raleway-font2 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* ar moddhe googl font babohar kora hoiche */
+
+
+
+
+/* body section  */
+body {
+    background-color: #F5F8FF;
+}
+
+/* shared stye section start */
+.btn-primary {
+    text-decoration: none;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    border-radius: 5px;
+    font-weight: 800;
+    border: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/* shared stye section end */
+
+/* header style  */
+
+header {
+    background-image: url('../images/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* nav section style start */
+.menu {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+nav li {
+    list-style: none;
+}
+.menu a:hover{
+    background-color: yellow;
+    color: black;
+}
+
+.logo {
+    font-size: 34px;
+    color: #4E47FF;
+    font-weight: 900;
+
+}
+
+
+
+/* nav section style end */
+
+
+/* banner section style start */
+.banner {
+    padding: 155px 0px;
+}
+.banner button:hover{
+    background-color: yellow;
+    color: black;
+}
+
+.banner-content {
+    font-size: 65px;
+    font-weight: 800;
+    color: #252432;
+}
+
+.stay-focused {
+    margin-top: 35px;
+}
+
+/* banner section style end */
