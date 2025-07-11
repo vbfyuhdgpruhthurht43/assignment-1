@@ -29,7 +29,7 @@ body {
     background-color: #F5F8FF;
 }
 
-/* shared stye section start */
+/* akhin takay siyear ofson soro */
 .btn-primary {
     text-decoration: none;
     background-color: #4E47FF;
@@ -45,7 +45,7 @@ body {
 }
 
 
-/* shared stye section end */
+/* akhin takay siyear ofson shesh */
 
 /* header style  */
 
@@ -55,7 +55,7 @@ header {
     background-size: cover;
 }
 
-/* nav section style start */
+/* akena nav sectoin style soro */
 .menu {
     display: flex;
     justify-content: space-between;
@@ -81,16 +81,18 @@ nav li {
 
 
 
-/* nav section style end */
+/* akena nav sectoin style shihs */
 
 
-/* banner section style start */
+/* akena banner section soro */
 .banner {
     padding: 155px 0px;
 }
 .banner button:hover{
-    background-color: yellow;
-    color: black;
+    background-color: aqua;
+    border-radius: 20%;
+    font-size: 60px;
+    color: blue;
 }
 
 .banner-content {
@@ -103,4 +105,45 @@ nav li {
     margin-top: 35px;
 }
 
-/* banner section style end */
+/* akena banner section shish */
+
+
+
+
+/* akene takay action section soro */
+
+.action {
+    display: flex;
+    max-width: 1140px;
+    margin: 116px auto;
+    justify-content: space-between;
+}
+
+.action-content {
+    max-width: 517px;
+    margin: 62.5px 0px;
+}
+.action-content button:hover{
+    background-color: purple;
+    color:green;
+}
+
+.action-title {
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+}
+
+.action-description {
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+    margin: 23px 0px;
+}
+
+.action-img img {
+    border-radius: 48px;
+}
+
+/* akene takay action section shesh */
+
+ 
